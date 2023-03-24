@@ -1,0 +1,20 @@
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csprojResolveAssemblyReference.cache
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.MainForm.resources
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.GenerateResource.Cache
+D:\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.config
+D:\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+D:\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.CaptureWindow.resources
+D:\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.CoreCompileInputs.cache
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.config
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csprojResolveAssemblyReference.cache
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.CaptureWindow.resources
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.MainForm.resources
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.GenerateResource.Cache
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.CoreCompileInputs.cache
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+\\KYLE-PC\Project Files\C#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb

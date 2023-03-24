@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Screen_Capture" GeneratedClassName="ScreenCapture" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="setting_copymode" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="setting_copytoclipboard" Type="System.Boolean" Scope="User" GenerateDefaultValueInCode="false" Roaming="false">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="setting_openinbrowser" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

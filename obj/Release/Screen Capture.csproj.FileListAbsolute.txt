@@ -1,0 +1,7 @@
+D:\C#\Screen Capture\Screen Capture\bin\Release\Screen Capture.exe.config
+D:\C#\Screen Capture\Screen Capture\bin\Release\Screen Capture.exe
+D:\C#\Screen Capture\Screen Capture\obj\Release\Screen Capture.csprojResolveAssemblyReference.cache
+D:\C#\Screen Capture\Screen Capture\obj\Release\Screen_Capture.MainForm.resources
+D:\C#\Screen Capture\Screen Capture\obj\Release\Screen Capture.csproj.GenerateResource.Cache
+D:\C#\Screen Capture\Screen Capture\obj\Release\Screen Capture.exe
+D:\C#\Screen Capture\Screen Capture\obj\Release\Screen_Capture.CaptureWindow.resources

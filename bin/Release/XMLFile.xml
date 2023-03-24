@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <setting_copytoclipboard>
+    <name>copytoclipboardxml</name>
+    <value>1</value>
+  </setting_copytoclipboard>
+  <setting_openinnewwindow>
+    <name>openinnewwindowxml</name>
+    <value>1</value>
+  </setting_openinnewwindow>
+  <setting_copymode>
+    <name>copymode</name>
+    <password>Link Mode</password>
+  </setting_copymode>
+</settings>
